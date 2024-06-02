@@ -6,7 +6,7 @@ const Feedback = () => {
     <div className='w-full bg-white mt-12'>
         <div>
         <h3 className='text-[20px] text-center font-light text-[#FF3366] mt-4'>CLIENT'S FEEDBACK</h3>
-        <h1 className='text-[38px] font-semibold text-black text-center mt-6'>PEOPLE SAY'S ABOUT US !</h1>
+        <h1 className='text-[38px] font-semibold text-black text-center mt-6'>PEOPLE SAY'S ABOUT US!</h1>
         </div>
         <div className='mt-12 relative flex w-full ml-[350px]'>
         <img src={`${qoute}`} className='w-10 h-8 absolute items-start' alt='quote'/>
