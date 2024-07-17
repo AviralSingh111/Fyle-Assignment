@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const form = event.target;
         const formData = new FormData(form);
 
-        fetch("https://getform.io/f/blljlzkb", {
+        fetch("https://getform.io/f/bdrygwpb", {
             method: "POST",
             body: formData,
             headers: {
