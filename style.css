@@ -651,4 +651,7 @@
         margin: 0 auto;
     }
 }
+.dot {
+    transition: all 0.3s ease;
+  }
     
